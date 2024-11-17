@@ -1,0 +1,11 @@
+[project]
+name = "sign-language-classification"
+version = "0.1.0"
+description = "Sign Language Classification"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "split-folders>=0.5.1",
+    "torch>=2.5.1",
+    "ultralytics>=8.3.32",
+]
