@@ -1,12 +1,5 @@
 # Sign Language Classification
 
-## 🌟 Features:
-
-- 🚀 Simple and intuitive web interface
-- 🔄 Real-time text generation
-- 🎯 Support for multiple Ollama models
-- 🔌 Custom server URL configuration
-
 ## 📥 Installation:
 
 ### Install [uv](https://ollama.com/download) for linux:
